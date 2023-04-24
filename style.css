@@ -1,0 +1,45 @@
+body {
+    background-color: #006400;
+    color: #006400;
+}
+
+table {
+    text-align: center;
+    width: 1000px;
+    background-color: #98FB98;
+}
+
+.elso oszlop {
+    width: 150px;
+    text-align: center;
+    vertical-align: top;
+}
+
+li {
+    text-align: left;
+}
+
+#va {
+    text-align: left;
+}
+
+h2 {
+    color: #006400;
+}
+
+h4 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
+
+a {
+    color: darkgreen;
+}
+
+#ez {
+    text-align: center;
+    border: 1px solid black;
+}
